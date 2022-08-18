@@ -51,17 +51,21 @@ const Projects = () => {
     ]
   };
   const Menus = [
-    {  title: "Github", src: github, desc: "Looking for a dynamic Software Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search  Engineer? Search no further, because I am ready for the job. With"},
-    {  title: "Visx", src: visx,  desc: "Looking Looking for a dynamic Software Engineer? Search  Looking for a dynamic Software Engineer? Search  Looking for a dynamic Software Engineer? Search  for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-    {  title: "Dashboard", src: dashboard,  desc: "Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-    {  title: "Chartjs", src: chart,  desc: "Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-    {  title: "E-commerce", src: ecommerce,  desc: "Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-    {  title: "Admin", src: admin,  desc: "Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-   
-    {  title: "Aos", src: aos,  desc: "Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-    {  title: "Overlay", src: overlay,  desc: "Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-    {  title: "Transparent Video", src: transparent,  desc: "Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search Looking for a dynamic Software Engineer? Search no further, because I am ready for the job. With"},
-  
+    {  title: "Github", src: github, desc: "You can login with your real github username and the project shows you githup repos, how many stars do you have, when the repos created at,  profile photo, bio, how many people following to you, how many follow people do you. This project shows to data Github allows"},
+    {  title: "E-commerce", src: ecommerce,  desc: `You can add  product to box with money and quantity when you want multiple product to box the money  increases with your products after that you can remove your product. Then you can checkout with your products. If the box is empty you can see the "you can added some product to basket" page `},
+    
+    {  title: "Transparent Video", src: transparent,  desc: "During my internship, this project was given to me for the task. I used to mix-blend-mode for this project. In with this project I improve animation skills"},
+    
+    {  title: "Wallet", src: visx,  desc: "The project shows to how many coins do you have and total price for dolar, quantity of coins, also when you hover this circle you can see which coins do you have with quantity and how much money for dolars. I used to Visx for this project.  "},
+    {  title: "Dashboard", src: dashboard,  desc: "Firstly there is login page you can login with your email and password. If password and username doesn't correct you can't entry the dashboard page.In the Addaccount page you can add a employee  and save the employee in localstorage. In the profile page you can filter the employee name "},
+    
+    {  title: "Animation", src: aos,  desc: "I started to learned to animation with this project. There is two drinks dropping the table for infinetly also the project includes responsive design when the drinks close to table, drinks speed getting slowly "},
+    
+    {  title: "Chart", src: chart,  desc: "This project for improve my css and chart skills. When hover the circle the project shows how many voted with related hobby, also improve my layout skills and gradient background color "},
+    {  title: "Admin", src: admin,  desc: "This project for improve my Css skills"},
+    
+    {  title: "Overlay", src: overlay,  desc: "This project for improve my  Responsive design aosjs skills "},
+    
 
     
   ];
