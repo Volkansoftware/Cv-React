@@ -1,6 +1,6 @@
 import React from 'react'
 import HeaderCSS from  '../Header/Header.module.css'
-
+import ProjectCSS from  '../Projects/Projects.module.css'
 import chart from '../../assets/chart.mp4'
 import visx from '../../assets/visx.mp4'
 import github from '../../assets/github.mp4'
@@ -75,7 +75,7 @@ const Projects = () => {
       <Slider {...settings}>
       {Menus.map((Menu, title) => (
          <div  key={Menu.title}>
-          <div  className={`${HeaderCSS.title  }  ml-56 text-4xl`}> {Menu.title}</div>
+          <div  className={`${HeaderCSS.title  } ${ProjectCSS.titleResponsive  }  ml-56 text-4xl`}> {Menu.title}</div>
             <video autoPlay loop muted 
             style={{
               transform: "scale(0.7)",

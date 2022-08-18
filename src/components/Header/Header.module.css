@@ -6,4 +6,21 @@ body{
     color: #C6A15A;
     
 }
-
+@media only screen and (max-width: 600px) {
+    .blockResponsive{
+        display: block;
+    }
+    .titleResponsive{
+        margin-top: 2rem;
+        font-size: 3rem;
+    }
+    .descResponsive{
+        margin-left: 1rem;
+    }
+    .imgResponsive{
+        margin-left: 0rem;
+        height: 80vh;
+        margin-top: 3rem;
+    }
+    
+  }
