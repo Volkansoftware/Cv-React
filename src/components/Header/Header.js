@@ -2,7 +2,7 @@ import React from 'react'
 import  HeaderCSS  from "./Header.module.css";
 import { BsLinkedin } from 'react-icons/bs';
 import { AiFillGithub } from 'react-icons/ai';
-import { SiGmail } from 'react-icons/si';
+
 import { IconContext } from "react-icons";
 const Header = () => {
   return (
